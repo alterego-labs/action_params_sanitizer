@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = ActionParamsSanitizer::VERSION
   spec.authors       = ["Sergey Gernyak"]
   spec.email         = ["sergeg1990@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Pretty simple objectifying wrapper for action params}
+  spec.description   = %q{Allows to describe the input parameters with a simple DSL}
+  spec.homepage      = "https://github.com/alterego-labs/action_params_sanitizer"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
