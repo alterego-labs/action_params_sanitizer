@@ -1,5 +1,9 @@
 # ActionParamsSanitizer
 
+[![Code Climate](https://codeclimate.com/github/alterego-labs/action_params_sanitizer/badges/gpa.svg)](https://codeclimate.com/github/alterego-labs/action_params_sanitizer)
+[![Test Coverage](https://codeclimate.com/github/alterego-labs/action_params_sanitizer/badges/coverage.svg)](https://codeclimate.com/github/alterego-labs/action_params_sanitizer)
+[![Build Status](https://travis-ci.org/alterego-labs/action_params_sanitizer.svg)](https://travis-ci.org/alterego-labs/action_params_sanitizer)
+
 Pretty simple objectifying wrapper for action params.
 
 Allows to describe the input parameters with a simple DSL. In result you take:
