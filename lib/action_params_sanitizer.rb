@@ -1,5 +1,5 @@
 require "action_params_sanitizer/version"
 
 module ActionParamsSanitizer
-  # Your code goes here...
+  autoload :Base, 'action_params_sanitizer/base.rb'
 end
