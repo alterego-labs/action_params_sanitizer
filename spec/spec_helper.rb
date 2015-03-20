@@ -2,6 +2,8 @@ $TESTING=true
 $:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'rspec/its'
+require 'active_support'
+require 'action_controller'
 require 'action_params_sanitizer'
 require 'pry-nav'
 
