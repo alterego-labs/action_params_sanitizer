@@ -1,3 +1,3 @@
 class ActionParamsSanitizer::Base < Struct.new(:params)
-  include ActionParamsSanitizer::Concerns::MethodBuilder
+  include ActionParamsSanitizer::Concerns::SingleParamBuilder
 end
